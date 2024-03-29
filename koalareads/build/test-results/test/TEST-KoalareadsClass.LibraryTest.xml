@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KoalareadsClass.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-27T15:01:58" hostname="10-45-53-78.0200.ifce.br.iosda.org" time="0.023">
+  <properties/>
+  <testcase name="someLibraryMethodReturnsTrue()" classname="KoalareadsClass.LibraryTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
